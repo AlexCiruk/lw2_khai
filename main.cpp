@@ -25,6 +25,3 @@ int main(int argc, char *argv[])
 // first branch commit
 
 // conflict
-// conflict branch1
-// comment master
-// comment branch1
