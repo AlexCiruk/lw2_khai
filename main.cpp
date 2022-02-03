@@ -23,4 +23,8 @@ int main(int argc, char *argv[])
 } // this is my first prog!
 
 // first branch commit
-//conflict
+
+// conflict
+// conflict branch1
+// comment master
+// comment branch1
