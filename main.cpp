@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
     w.show();
     return a.exec();
 } // this is my first prog!
-
 // first branch commit
 
+// conflict
 // conflict
